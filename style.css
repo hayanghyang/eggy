@@ -17,6 +17,7 @@ html, body, h1, h2, h3, h4, h5 {
   z-index: -1;
 }
 
+
 mark {
   background-color: rgba(255, 208, 0, 0.295);
   color: #d9b6b4;
@@ -45,6 +46,21 @@ mark {
   font-family: pop;
 }
 
+.title2 {
+  color: rgb(255, 232, 219);
+  text-shadow: 1px 1px 10px #FC9174; /* https://developer.mozilla.org/en-US/docs/Web/CSS/text-shadow */
+  font-size: xx-large ;
+  margin: 0px;
+  font-family: pop;
+}
+
+.ults2 {
+  color: rgb(255, 232, 219);
+  font-size: x-large;
+  font-weight: bold;
+  font-family: pop;
+  margin: 0px;
+}
 
 .ults {
   color:black;
